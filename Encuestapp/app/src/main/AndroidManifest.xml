@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="keaplus.com.co.sistemaencuesta" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Actividades.InicioEncuestado"
+            android:label="@string/title_activity_inicio_encuestado"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Actividades.InicioAdministrador"
+            android:label="@string/title_activity_inicio_administrador"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity android:name=".Actividades.Registro" >
+        </activity>
+        <activity android:name=".Actividades.PreguntaActivity" >
+        </activity>
+        <activity
+            android:name=".Preguntas.PreguntaUnoActivity"
+            android:label="@string/title_activity_pregunta_uno"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity android:name=".Preguntas.PreguntaDosActivity" >
+        </activity>
+        <activity android:name=".Preguntas.PreguntaTresActivity" >
+        </activity>
+        <activity android:name=".Preguntas.PreguntaCuatroActivity" >
+        </activity>
+        <activity android:name=".Preguntas.PreguntaCincoActivity" >
+        </activity>
+        <activity
+            android:name=".Preguntas.PreguntaSeisActivity"
+            android:label="@string/title_activity_pregunta_seis"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity android:name=".Preguntas.PreguntaSieteActivity" >
+        </activity>
+        <activity
+            android:name=".Preguntas.PreguntaOchoActivity"
+            android:label="@string/title_activity_pregunta_ocho"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity android:name=".Actividades.Prueba" >
+        </activity>
+    </application>
+
+</manifest>

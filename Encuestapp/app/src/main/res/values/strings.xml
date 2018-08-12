@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SistemaEncuesta</string>
+    <string name="title_activity_inicio_encuestado">InicioEncuestado</string>
+    <string name="tituloInicio_hint">Sistema De Encuestas</string>
+    <string name="Login_hint">Inicio Sesión</string>
+    <string name="Usuario_hint">Usuario</string>
+    <string name="Clave_hint">Clave</string>
+    <string name="Ingresar_hint">Ingresar</string>
+    <string name="Registrarse_hint">Registrarse</string>
+    <string name="title_activity_inicio_administrador">InicioAdministrador</string>
+    <string name="title_activity_pregunta_uno">PreguntaUnoActivity</string>
+    <!-- pregunta uno -->
+    <string name="preguntaUnoEnunciado">¿Conoce producto/Servicio?</string>
+    <string name="preguntaUnoOpcionUno">Si</string>
+    <string name="preguntaUnoOpcionDos">No</string>
+    <!-- pregunta uno -->
+    <string name="preguntaDosEnunciado">¿Conoce actualmente el producto/Servicio?</string>
+    <string name="preguntaDosOpcionUno">Si</string>
+    <string name="preguntaDosOpcionDos">No</string>
+    <!-- pregunta uno -->
+    <string name="preguntaTresEnunciado">¿Ha utilizado anteriormente el producto/Servicio?</string>
+    <string name="preguntaTresOpcionUno">Si</string>
+    <string name="preguntaTresOpcionDos">No</string>
+    <!-- pregunta uno -->
+    <string name="preguntaCuatroEnunciado">¿Cual es su grado de satisfacción, la valoración el producto/Servicio?</string>
+    <string name="preguntaCuatroOpcionUno">Muy Malo</string>
+    <string name="preguntaCuatroOpcionDos">Malo</string>
+    <string name="preguntaCuatroOpcionTres">Regular</string>
+    <string name="preguntaCuatroOpcionCuatro">Bueno</string>
+    <string name="preguntaCuatroOpcionCinco">Muy Bueno</string>
+    <string name="preguntaCuatroOpcionSeis">Excelente</string>
+    <!-- pregunta uno -->
+    <string name="preguntaCincoEnunciado">¿Cuanto tiempo lleva utilizando el producto/Servicio?</string>
+    <string name="preguntaCincoOpcionUno">Menos de un año</string>
+    <string name="preguntaCincoOpcionDos">De uno a tres años</string>
+    <string name="preguntaCincoOpcionTres">Mas de tres años</string>
+    <!-- pregunta uno -->
+    <string name="preguntaSeisEnunciado">¿Qué le parece el precio el producto/Servicio?</string>
+    <string name="preguntaSeisOpcionUno">Economico</string>
+    <string name="preguntaSeisOpcionDos">Calidad precio satisfactorio</string>
+    <string name="preguntaSeisOpcionTres">Calidad precio casi satisfactorio</string>
+    <string name="preguntaSeisOpcionCuatro">Caro</string>
+
+    <!-- pregunta uno -->
+    <string name="preguntaSieteEnunciado">¿Antes de comprar miraria usted otras marcas?</string>
+    <string name="preguntaSieteOpcionUno">Si</string>
+    <string name="preguntaSieteOcionDos">No</string>
+
+    <!-- pregunta uno -->
+    <string name="preguntaOchoEnunciado">Enumere las marcas que miraria</string>
+    <string name="title_activity_pregunta_seis">PreguntaSeisActivity</string>
+    <string name="title_activity_pregunta_ocho">PreguntaOchoActivity</string>
+
+</resources>
